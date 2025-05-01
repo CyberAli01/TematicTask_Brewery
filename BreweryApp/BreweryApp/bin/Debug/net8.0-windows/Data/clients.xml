@@ -1,0 +1,8 @@
+﻿<Clients>
+	<Client>
+		<Id>1</Id>
+		<Name>Пивной Бар 'У Медведя'</Name>
+		<Phone>+79001234567</Phone>
+		<PhotoPath>images/client1.jpg</PhotoPath>
+	</Client>
+</Clients>

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training\\BreweryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|c:\\training\\breweryapp\\breweryapp\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|solutionrelative:breweryapp\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|c:\\training\\breweryapp\\breweryapp\\data\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|solutionrelative:breweryapp\\data\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|c:\\training\\breweryapp\\breweryapp\\data\\beers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|solutionrelative:breweryapp\\data\\beers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|c:\\training\\breweryapp\\breweryapp\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|solutionrelative:breweryapp\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|c:\\training\\breweryapp\\breweryapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|solutionrelative:breweryapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|c:\\training\\breweryapp\\breweryapp\\data\\brewerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|solutionrelative:breweryapp\\data\\brewerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|c:\\training\\breweryapp\\breweryapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|solutionrelative:breweryapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|c:\\training\\breweryapp\\breweryapp\\models\\orderbeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|solutionrelative:breweryapp\\models\\orderbeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|c:\\training\\breweryapp\\breweryapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|solutionrelative:breweryapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|c:\\training\\breweryapp\\breweryapp\\forms\\ordercardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|solutionrelative:breweryapp\\forms\\ordercardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|c:\\training\\breweryapp\\breweryapp\\data\\clients.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|solutionrelative:breweryapp\\data\\clients.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|c:\\training\\breweryapp\\breweryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128665AD-4332-410F-B446-35FB9464B66C}|BreweryApp\\BreweryApp.csproj|solutionrelative:breweryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "orders.json",
+              "DocumentMoniker": "C:\\Training\\BreweryApp\\BreweryApp\\Data\\orders.json",
+              "RelativeDocumentMoniker": "BreweryApp\\Data\\orders.json",
+              "ToolTip": "C:\\Training\\BreweryApp\\BreweryApp\\Data\\orders.json",
+              "RelativeToolTip": "BreweryApp\\Data\\orders.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T22:25:32.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "beers.json",
+              "DocumentMoniker": "C:\\Training\\BreweryApp\\BreweryApp\\Data\\beers.json",
+              "RelativeDocumentMoniker": "BreweryApp\\Data\\beers.json",
+              "ToolTip": "C:\\Training\\BreweryApp\\BreweryApp\\Data\\beers.json",
+              "RelativeToolTip": "BreweryApp\\Data\\beers.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T21:48:43.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clients.xml",
+              "DocumentMoniker": "C:\\Training\\BreweryApp\\BreweryApp\\Data\\clients.xml",
+              "RelativeDocumentMoniker": "BreweryApp\\Data\\clients.xml",
+              "ToolTip": "C:\\Training\\BreweryApp\\BreweryApp\\Data\\clients.xml",
+              "RelativeToolTip": "BreweryApp\\Data\\clients.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-30T21:47:30.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderCardForm.cs",
+              "DocumentMoniker": "C:\\Training\\BreweryApp\\BreweryApp\\Forms\\OrderCardForm.cs",
+              "RelativeDocumentMoniker": "BreweryApp\\Forms\\OrderCardForm.cs",
+              "ToolTip": "C:\\Training\\BreweryApp\\BreweryApp\\Forms\\OrderCardForm.cs",
+              "RelativeToolTip": "BreweryApp\\Forms\\OrderCardForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:06:32.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Training\\BreweryApp\\BreweryApp\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "BreweryApp\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Training\\BreweryApp\\BreweryApp\\Forms\\MainForm.cs",
+              "RelativeToolTip": "BreweryApp\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:52:34.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Training\\BreweryApp\\BreweryApp\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "BreweryApp\\Services\\DataService.cs",
+              "ToolTip": "C:\\Training\\BreweryApp\\BreweryApp\\Services\\DataService.cs",
+              "RelativeToolTip": "BreweryApp\\Services\\DataService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwvyYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:36:33.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreweryContext.cs",
+              "DocumentMoniker": "C:\\Training\\BreweryApp\\BreweryApp\\Data\\BreweryContext.cs",
+              "RelativeDocumentMoniker": "BreweryApp\\Data\\BreweryContext.cs",
+              "ToolTip": "C:\\Training\\BreweryApp\\BreweryApp\\Data\\BreweryContext.cs",
+              "RelativeToolTip": "BreweryApp\\Data\\BreweryContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:35:33.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderBeer.cs",
+              "DocumentMoniker": "C:\\Training\\BreweryApp\\BreweryApp\\Models\\OrderBeer.cs",
+              "RelativeDocumentMoniker": "BreweryApp\\Models\\OrderBeer.cs",
+              "ToolTip": "C:\\Training\\BreweryApp\\BreweryApp\\Models\\OrderBeer.cs",
+              "RelativeToolTip": "BreweryApp\\Models\\OrderBeer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:34:14.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Training\\BreweryApp\\BreweryApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BreweryApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Training\\BreweryApp\\BreweryApp\\Models\\Order.cs",
+              "RelativeToolTip": "BreweryApp\\Models\\Order.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:24:36.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Training\\BreweryApp\\BreweryApp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "BreweryApp\\Models\\Client.cs",
+              "ToolTip": "C:\\Training\\BreweryApp\\BreweryApp\\Models\\Client.cs",
+              "RelativeToolTip": "BreweryApp\\Models\\Client.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:24:16.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "C:\\Training\\BreweryApp\\BreweryApp\\Models\\Beer.cs",
+              "RelativeDocumentMoniker": "BreweryApp\\Models\\Beer.cs",
+              "ToolTip": "C:\\Training\\BreweryApp\\BreweryApp\\Models\\Beer.cs",
+              "RelativeToolTip": "BreweryApp\\Models\\Beer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:22:56.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\BreweryApp\\BreweryApp\\Program.cs",
+              "RelativeDocumentMoniker": "BreweryApp\\Program.cs",
+              "ToolTip": "C:\\Training\\BreweryApp\\BreweryApp\\Program.cs",
+              "RelativeToolTip": "BreweryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:28:44.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "status": "В обработке",
+        "orderDate": "2023-10-20T12:00:00Z",
+        "clientId": 1,
+        "orderBeers": [
+            {
+                "beerId": 1,
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "status": "Готов",
+        "orderDate": "2023-10-20T13:00:00Z",
+        "clientId": 1,
+        "orderBeers": [
+            {
+                "beerId": 1,
+                "quantity": 4
+            }
+        ]
+    }
+]

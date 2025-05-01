@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "Янтарный Эль",
+        "type": "Эль",
+        "abv": 5.2,
+        "imagePath": "images/amber_ale.jpg"
+    }
+]
